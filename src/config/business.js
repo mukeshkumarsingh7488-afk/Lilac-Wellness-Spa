@@ -20,10 +20,10 @@ export const BUSINESS = {
   totalReviews: "270",
 
   social: {
-    instagram: "#",
-    facebook: "#",
-    youtube: "#",
-    twitter: "#",
+    instagram: "https://instagram.com",
+    facebook: "https://facebook.com",
+    youtube: "https://youtube.com",
+    twitter: "https://x.com",
   },
 
   seo: {
